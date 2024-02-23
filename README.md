@@ -17,7 +17,7 @@ The dataset used in this project is the "Traffic Collisions - Killed or Seriousl
 5.	**Data Cleaning:** Columns with high missing values are dropped to prepare the dataset for analysis.
 6.	**Exploring Data Relationships:** Various data relationships are explored to uncover patterns and insights into accident occurrences.
 7.	**Heatmap Visualization:** A heatmap is created to visualize where fatalities have occurred in Toronto, providing spatial insights.
-8.	
+8.	![HeatMap](https://github.com/PatelJay3878/KSI_Data_Analysis/assets/73180853/5f32848d-cb0a-472a-8767-6c7c21914e1d)
 9.	**Accident Occurrence Patterns:** Patterns of accident occurrences with respect to different regions in Toronto are identified and analyzed.
 10.	**Driving Conditions and Causes:** Types of driving conditions and causes responsible for accidents are examined to understand contributing factors.
 11.	**Vehicle and Victim Types:** Types of vehicles and victims involved in accidents, as well as the outcomes of accidents on victims, are analyzed.
