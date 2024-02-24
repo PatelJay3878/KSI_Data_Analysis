@@ -12,7 +12,7 @@ The dataset used in this project is the "Traffic Collisions - Killed or Seriousl
 ## Key Steps
 1.	**Importing Necessary Libraries:** We start by importing essential Python libraries required for data analysis and visualization.
 2.	**Importing Dataset:** The dataset containing Toronto police accident data for the past 10 years is imported for analysis.
-3.	**Checking Missing Values:** We examine the dataset for missing values to ensure data quality and completeness.
+3.	**Checking Missing Values:** Examined the dataset for missing values to ensure data quality and completeness.
 4.	**Visualizing Missing Values:** Features with the highest missing values are visualized to identify patterns and inform data cleaning strategies.
 5.	**Data Cleaning:** Columns with high missing values are dropped to prepare the dataset for analysis.
 6.	**Exploring Data Relationships:** Various data relationships are explored to uncover patterns and insights into accident occurrences.
