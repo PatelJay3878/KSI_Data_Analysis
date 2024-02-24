@@ -16,6 +16,7 @@ The dataset used in this project is the "Traffic Collisions - Killed or Seriousl
 4.	**Visualizing Missing Values:** Features with the highest missing values are visualized to identify patterns and inform data cleaning strategies.
 5.	**Data Cleaning:** Columns with high missing values are dropped to prepare the dataset for analysis.
 6.	**Exploring Data Relationships:** Various data relationships are explored to uncover patterns and insights into accident occurrences.
+7.	
 	
 ![accident_caused_in_months](https://github.com/PatelJay3878/KSI_Data_Analysis/assets/73180853/bb3cbfa8-2b3e-4213-8f31-6b491d657ff6)
 ![Deaths_year](https://github.com/PatelJay3878/KSI_Data_Analysis/assets/73180853/b26d4869-b4f2-40c6-a3d3-82f52e353513)
@@ -39,10 +40,12 @@ The dataset used in this project is the "Traffic Collisions - Killed or Seriousl
 
 
 15.	**Vehicle and Victim Types:** Types of vehicles and victims involved in accidents, as well as the outcomes of accidents on victims, are analyzed.
+16.	
 ![victims_in_accidents](https://github.com/PatelJay3878/KSI_Data_Analysis/assets/73180853/3ef86c3e-f0d6-4c56-bbe4-afacd554fd66)
 ![vehicle_type_vs_accident](https://github.com/PatelJay3878/KSI_Data_Analysis/assets/73180853/ba7191d8-5290-49e7-b963-d9468b0392d6)
 
 17.	**Accident Trends Over Time:** The number of accidents occurring each month and year is analyzed to identify trends and seasonal variations.
+18.	
 ![trend_type_of_vehicle_involved](https://github.com/PatelJay3878/KSI_Data_Analysis/assets/73180853/c3868fb3-4c35-4717-a3b5-df782dbf8307)
 ![trend_of_causes_of_accident](https://github.com/PatelJay3878/KSI_Data_Analysis/assets/73180853/8db00b53-ec3f-4c58-bbd2-ee2f28fc1c23)
 ![No of Accidents_occured_inrespective_to_month_ _year](https://github.com/PatelJay3878/KSI_Data_Analysis/assets/73180853/9907e2e2-4aa0-4700-8eda-127622923dc1)
